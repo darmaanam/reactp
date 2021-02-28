@@ -11,5 +11,9 @@
     "url": "y"
   },
   "author": "Darmaan",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "eslint": "^7.21.0",
+    "moment": "^2.29.1"
+  }
 }
